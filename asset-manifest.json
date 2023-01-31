@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yalp-app/static/css/main.f8037b92.css",
-    "main.js": "/Yalp-app/static/js/main.65963114.js",
+    "main.js": "/Yalp-app/static/js/main.20a96bb4.js",
     "static/media/ava2.svg": "/Yalp-app/static/media/ava2.ebab69d9caf56e6c309398e6d1ff1893.svg",
     "static/media/ava1.svg": "/Yalp-app/static/media/ava1.2ffac9e176384e7f423ec06a6840e949.svg",
     "static/media/donut.svg": "/Yalp-app/static/media/donut.978c8b9decef613479ab9344d9611b29.svg",
@@ -43,6 +43,7 @@
     "static/media/coocked.png": "/Yalp-app/static/media/coocked.199b3d6985d972ca3702.png",
     "static/media/orange.png": "/Yalp-app/static/media/orange.3c0ffeca1553839ff01c.png",
     "static/media/sprite.svg": "/Yalp-app/static/media/sprite.34eadae77e25dbda81a1aeb0ff14bfaa.svg",
+    "static/media/dust.svg": "/Yalp-app/static/media/dust.061cceedd8160e29f24385b8a7b3304f.svg",
     "static/media/shop.svg": "/Yalp-app/static/media/shop.75fca87408af6eb575d6a3aa9a0553a2.svg",
     "static/media/search.svg": "/Yalp-app/static/media/search.d6eaf8df0bed3aefe4161c518d036709.svg",
     "static/media/link.svg": "/Yalp-app/static/media/link.01130447f514c9a79b768dabd106bdb7.svg",
@@ -52,10 +53,10 @@
     "static/media/filter.svg": "/Yalp-app/static/media/filter.74289f17e0e446e146651dc54ff89813.svg",
     "static/media/plus.svg": "/Yalp-app/static/media/plus.bd8efbd7e0d849790dfb5b75330aab60.svg",
     "main.f8037b92.css.map": "/Yalp-app/static/css/main.f8037b92.css.map",
-    "main.65963114.js.map": "/Yalp-app/static/js/main.65963114.js.map"
+    "main.20a96bb4.js.map": "/Yalp-app/static/js/main.20a96bb4.js.map"
   },
   "entrypoints": [
     "static/css/main.f8037b92.css",
-    "static/js/main.65963114.js"
+    "static/js/main.20a96bb4.js"
   ]
 }
