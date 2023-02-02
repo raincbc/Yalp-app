@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yalp-app/static/css/main.f8037b92.css",
-    "main.js": "/Yalp-app/static/js/main.b106f58b.js",
+    "main.js": "/Yalp-app/static/js/main.326048dc.js",
     "static/media/ava2.svg": "/Yalp-app/static/media/ava2.ebab69d9caf56e6c309398e6d1ff1893.svg",
     "static/media/ava1.svg": "/Yalp-app/static/media/ava1.2ffac9e176384e7f423ec06a6840e949.svg",
     "static/media/donut.svg": "/Yalp-app/static/media/donut.978c8b9decef613479ab9344d9611b29.svg",
@@ -53,10 +53,10 @@
     "static/media/filter.svg": "/Yalp-app/static/media/filter.74289f17e0e446e146651dc54ff89813.svg",
     "static/media/plus.svg": "/Yalp-app/static/media/plus.bd8efbd7e0d849790dfb5b75330aab60.svg",
     "main.f8037b92.css.map": "/Yalp-app/static/css/main.f8037b92.css.map",
-    "main.b106f58b.js.map": "/Yalp-app/static/js/main.b106f58b.js.map"
+    "main.326048dc.js.map": "/Yalp-app/static/js/main.326048dc.js.map"
   },
   "entrypoints": [
     "static/css/main.f8037b92.css",
-    "static/js/main.b106f58b.js"
+    "static/js/main.326048dc.js"
   ]
 }
